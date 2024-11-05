@@ -1,0 +1,87 @@
+body {
+    background-color: #333;
+    color: #fff;
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; */
+;
+}
+.grid-container {
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 10% auto 20%;
+    grid-template-rows: auto auto auto; 
+  }
+
+/* #orderItemTable {
+    display: flex;
+    align-items: center;
+} */
+#orderList {
+    margin: 0;
+    padding: 0;
+    /* display: flex;
+    /* flex-direction: column; 
+    align-items: left; */
+    
+    text-align: left;
+    list-style: none;
+    height: 100%;
+    width: 100%;
+    color: black;
+    background-color: #888;
+}
+#orderList li {
+    cursor: pointer;
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#orderlist .even{
+    background-color: white;
+}
+#orderlist .odd {
+    background-color: #efefef; 
+}
+#orderlist .selected {
+    background-color: #007BFF;
+}
+/* .scrollable-list {
+    height: 600px; /* Adjust as needed
+    overflow-y: auto;
+} */
+.selected {
+    background-color: #007BFF; /* Change to your preferred color */
+    color: white;
+} 
+.btnContainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.btnContainer fieldset {
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+.btnContainer fieldset:disabled{
+  display: none;
+}
+/*
+.btn {
+    background-color: #444;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    right: 0;
+    margin-top: 10px;
+} */
+
+.btn:hover {
+    background-color: #7777;
+}

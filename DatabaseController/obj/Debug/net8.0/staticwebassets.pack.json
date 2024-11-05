@@ -1,0 +1,249 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\index.css",
+      "PackagePath": "staticwebassets\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\index.js",
+      "PackagePath": "staticwebassets\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator.css",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator.css"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator.css.map",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator.min.css",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator.min.css.map",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_bootstrap3.css",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_bootstrap3.css"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_bootstrap3.css.map",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_bootstrap3.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_bootstrap3.min.css",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_bootstrap3.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_bootstrap3.min.css.map",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_bootstrap3.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_bootstrap4.css",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_bootstrap4.css.map",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_bootstrap4.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_bootstrap4.min.css.map",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_bootstrap4.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_bootstrap5.css",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_bootstrap5.css.map",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_bootstrap5.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_bootstrap5.min.css.map",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_bootstrap5.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_bulma.css",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_bulma.css"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_bulma.css.map",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_bulma.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_bulma.min.css",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_bulma.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_bulma.min.css.map",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_bulma.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_materialize.css",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_materialize.css"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_materialize.css.map",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_materialize.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_materialize.min.css",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_materialize.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_materialize.min.css.map",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_materialize.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_midnight.css",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_midnight.css"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_midnight.css.map",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_midnight.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_midnight.min.css",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_midnight.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_midnight.min.css.map",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_midnight.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_modern.css",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_modern.css"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_modern.css.map",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_modern.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_modern.min.css",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_modern.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_modern.min.css.map",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_modern.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_semanticui.css",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_semanticui.css"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_semanticui.css.map",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_semanticui.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_semanticui.min.css",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_semanticui.min.css.map",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_semanticui.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_simple.css",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_simple.css"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_simple.css.map",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_simple.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_simple.min.css",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_simple.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_simple.min.css.map",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_simple.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_site.css",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_site.css"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_site.css.map",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_site.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_site.min.css",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_site.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\css\\tabulator_site.min.css.map",
+      "PackagePath": "staticwebassets\\tabulator\\css\\tabulator_site.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\js\\jquery_wrapper.js",
+      "PackagePath": "staticwebassets\\tabulator\\js\\jquery_wrapper.js"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\js\\tabulator.js",
+      "PackagePath": "staticwebassets\\tabulator\\js\\tabulator.js"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\js\\tabulator.js.map",
+      "PackagePath": "staticwebassets\\tabulator\\js\\tabulator.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\js\\tabulator.min.js",
+      "PackagePath": "staticwebassets\\tabulator\\js\\tabulator.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\js\\tabulator.min.js.map",
+      "PackagePath": "staticwebassets\\tabulator\\js\\tabulator.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\js\\tabulator_esm.js",
+      "PackagePath": "staticwebassets\\tabulator\\js\\tabulator_esm.js"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\js\\tabulator_esm.js.map",
+      "PackagePath": "staticwebassets\\tabulator\\js\\tabulator_esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\js\\tabulator_esm.min.js",
+      "PackagePath": "staticwebassets\\tabulator\\js\\tabulator_esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alrin\\Documents\\GitHub\\webDB\\DatabaseController\\wwwroot\\tabulator\\js\\tabulator_esm.min.js.map",
+      "PackagePath": "staticwebassets\\tabulator\\js\\tabulator_esm.min.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DatabaseController.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DatabaseController.props",
+      "PackagePath": "build\\DatabaseController.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DatabaseController.props",
+      "PackagePath": "buildMultiTargeting\\DatabaseController.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DatabaseController.props",
+      "PackagePath": "buildTransitive\\DatabaseController.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
