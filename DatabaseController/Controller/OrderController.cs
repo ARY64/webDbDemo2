@@ -24,7 +24,7 @@ namespace WebDB.Controllers
         public ActionResult<IEnumerable<Order>> GetOrders(int pageNumber = 1, int pageSize = 10, string sortBy = "OrderId", bool sortDescending = true)
         {   
             // TODO: add a cache option to recall last request from user session
-            // Assemble lambda from user input then pass to query
+            // Assign lambda based on user input then pass to sort function
             Expression<Func<Order, int>> lambdaQuery;
             IOrderedQueryable<Order> ordersQuery;
             // Assemble lambda from user input
@@ -36,15 +36,11 @@ namespace WebDB.Controllers
                 default:
                     return BadRequest("Invalid sort by parameter");
             }
-            // Pass lambda to query and sort
-            if(sortDescending)
-            {
-                ordersQuery = _context.Orders.OrderByDescending(lambdaQuery);
-            }
-            else
-            {
-                ordersQuery = _context.Orders.OrderBy(lambdaQuery);
-            }       
+            // Pass lambda to sort function
+
+            ordersQuery = sortDescending ?
+             _context.Orders.OrderByDescending(lambdaQuery): _context.Orders.OrderBy(lambdaQuery);
+
             // Apply pagination
             var paginatedQuery = ordersQuery
                 .Skip((pageNumber - 1) * pageSize)
